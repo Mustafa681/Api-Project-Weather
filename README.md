@@ -22,4 +22,3 @@ imges+icons <br>
 
 this searching app uses accuweatherWeatherApp api to feth data wuth weather info 
 
-# how does it work
