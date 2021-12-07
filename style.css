@@ -1,0 +1,37 @@
+body {
+background: black;
+letter-spacing: 0.2em;
+font-size: 0.8em;
+}
+.container {
+max-width: 400px;
+}
+.icon{
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+    background-color:burlywood !important;
+
+}
+
+.card{
+background-color: burlywood;
+}
+.form-controle{
+  background-color: burlywood;
+color: black !important;
+}
+
+
+.button, input{
+  border-radius: 5px !important;
+}
+.button:hover, input:hover{
+  background-color:#d4c6b8 !important;
+}
+
+input::focus{
+  background-color: burlywood !important;
+}
