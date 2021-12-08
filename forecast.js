@@ -1,6 +1,6 @@
 class Forecast {
   constructor() {
-    this.key = 'MvD2dPvtAweXlZr4I9p441SULTO4GwUF'
+    this.key = 's9WO7F47V9XiGh6kdSBDDijiHjoBCWj4'
 
     this.weatherURI = 'https://dataservice.accuweather.com/currentconditions/v1/'
 
